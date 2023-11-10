@@ -8,9 +8,9 @@ function Navbar() {
             </button>
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div class="navbar-nav">
-                <a class="nav-item nav-link active" href="#">Home</a>
-                <a class="nav-item nav-link" href="#">About</a>
-                <a class="nav-item nav-link" href="#">Contact</a>
+                <a class="nav-item nav-link active" href="/">Home</a>
+                <a class="nav-item nav-link" href="card">Card</a>
+                <a class="nav-item nav-link" href="contact">Contact</a>
                 </div>
             </div>
             <form class="d-flex" role="search">
